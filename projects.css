@@ -1,0 +1,157 @@
+html {
+	margin: 0;
+	padding: 0;
+	background-image: url(images/greystripes.jpg); 
+	background-size: auto;
+	background-repeat: repeat;
+}
+
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	float: left;
+}
+
+a {
+	margin: 0;
+	color: #000000;
+}
+
+a:hover {
+	color: #008B8B;
+}
+
+
+.nav {
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	color:black;
+}
+
+.nav li {
+	padding: 0.5em;
+}
+/* project page styling*/
+
+#tagline {
+	color: black;
+	font-family: 'Cabin Sketch', cursive;
+	text-align: center;
+	font-size: 45px;
+	text-align: center;
+	padding-top: 100px;
+	padding-left: 30px;
+	padding-right: 30px;
+	max-width: 750px;
+	margin: 0 auto;
+}
+
+#projectnames {
+	color: black;
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+}
+
+.links h2 {
+	font-size: 2em;
+}
+
+.links a {
+	display: block;
+	font-size: 1.25em;
+}
+
+/*about me page styling*/
+
+#hello {
+	padding-top: 100px;
+	font-family: 'Cabin Sketch', cursive;
+	color: #008B8B;
+	font-size: 60px;
+	text-align: center;
+}
+
+
+#bio {
+	font-family: 'Amatic SC', cursive;
+	color: black;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 30px;
+	font-size: 25px;
+	text-align: center;
+
+}
+
+/*homepage styling*/
+
+#name{
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 60px; 
+	color: #008B8B;
+	padding-top: 200px;
+	text-align: center;
+	margin-top: 0;
+}
+
+#quOte{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	color: black;
+	text-align: center;
+}
+
+/*contact page styling*/
+
+.contact{
+	text-align: center
+}
+
+#contacthead{
+	font-size: 60px;
+	font-family: 'Cabin Sketch', cursive;
+	color: #008B8B;
+	padding-top: 125px;
+	padding-bottom: 50px;
+}
+
+.info{
+	font-family: 'Amatic SC', cursive;
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+#twitter{
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+
+#handle{
+	margin-top: 0px;
+}
+
+#insta{
+	padding-top: 30px;
+}
+
+#email{
+	padding-top: 50px;
+}
+
+address{
+	font-style: normal;
+}
+
+footer {
+	margin-top: 320px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 15px;
+	text-align: center;
+}
